@@ -1,7 +1,5 @@
 # Next.js Crash Course Project
 
-Project from my Next.js crash course on YouTube
-
 ### Run the development server:
 
 ```bash
@@ -20,8 +18,3 @@ npm run build
 npm start
 ```
 
-### API Routes:
-
-GET /api/articles
-GET /api/articles/:id
-# Next-js-test
